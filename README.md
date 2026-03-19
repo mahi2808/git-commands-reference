@@ -29,3 +29,62 @@ https://github.com
 - Make your first commit
 
   # Note - <br> tag is used between two lines to insert new line
+
+  # Setting up Git
+
+You can use Git from the following environments:
+
+- Visual Studio Code  
+- Windows (Git Bash)  
+- Mac (Terminal)  
+
+## ✅ Verify Installation
+
+Run the following command to check if Git is installed:
+
+git --version
+
+# Configuring Git
+
+## Set Username
+git config --global user.name "Your Name"
+
+## Set Email
+git config --global user.email "your@email.com"
+
+## Check Configuration
+git config --list
+
+# Git using VS code:
+Create new folder & open it in VS code.
+Basic cmd of git
+
+# Clone & Status
+
+## 📥 Clone
+Clone a repository from GitHub to your local machine.
+
+Command:
+git clone <repository-link>
+
+## 📊 Status
+Check the current state of your working directory and staging area.
+
+Command:
+git status
+
+
+# Remote vs Local
+
+## 🌐 Remote
+Refers to the repository hosted on GitHub (cloud).
+
+## 💻 Local
+Refers to your system (laptop/PC) where you write and modify code.
+
+## 📂 Change Directory
+
+Use the following command to navigate between folders:
+
+Command:
+cd <directory-name>
