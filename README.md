@@ -27,4 +27,5 @@ https://github.com
 
 - Create a new repository: git-commands-reference  
 - Make your first commit
-- 
+
+  # Note - <br> tag is used between two lines to insert new line
